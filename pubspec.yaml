@@ -17,3 +17,12 @@ dependencies:
 
 flutter:
   uses-material-design: true
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/past/
+    flutter:
+  uses-material-design: true
+  assets:
+    - assets/past/
+    
